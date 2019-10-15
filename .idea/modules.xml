@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud.iml" filepath="$PROJECT_DIR$/spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-micro-consumer-80/spring-cloud-micro-consumer-80.iml" filepath="$PROJECT_DIR$/spring-cloud-micro-consumer-80/spring-cloud-micro-consumer-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-micro-service-8001/spring-cloud-micro-service-8001.iml" filepath="$PROJECT_DIR$/spring-cloud-micro-service-8001/spring-cloud-micro-service-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-api/springcloud-api.iml" filepath="$PROJECT_DIR$/springcloud-api/springcloud-api.iml" />
+    </modules>
+  </component>
+</project>
