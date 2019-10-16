@@ -3,11 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <modules>
-        <module>spring-cloud-micro-service-8001</module>
         <module>spring-cloud-micro-consumer-80</module>
         <module>spring-cloud-api</module>
         <module>spring-cloud-micro-eureka-7001</module>
-        <module>spring-cloud-micro-eureka-7001</module>
+        <module>spring-cloud-micro-service-8001</module>
     </modules>
 
     <parent>
