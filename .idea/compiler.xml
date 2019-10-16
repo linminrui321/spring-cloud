@@ -7,16 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-api" />
         <module name="spring-cloud-micro-consumer-80" />
+        <module name="spring-cloud-micro-eureka-7001" />
         <module name="spring-cloud-micro-service-8001" />
-        <module name="springcloud-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-cloud" target="1.8" />
+      <module name="spring-cloud-api" target="1.8" />
       <module name="spring-cloud-micro-consumer-80" target="1.8" />
+      <module name="spring-cloud-micro-eureka-7001" target="1.8" />
       <module name="spring-cloud-micro-service-8001" target="1.8" />
-      <module name="springcloud-api" target="1.8" />
+      <module name="springcloudmicroeureka7001" target="1.8" />
       <module name="springcloudmicroservice" target="1.8" />
       <module name="springcloudmicrosonsumer80" target="1.8" />
     </bytecodeTargetLevel>

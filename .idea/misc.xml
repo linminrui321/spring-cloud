@@ -8,6 +8,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/spring-cloud-micro-eureka-7001/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-micro-sonsumer-80/pom.xml" />
       </set>
     </option>
